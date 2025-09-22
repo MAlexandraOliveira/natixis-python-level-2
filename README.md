@@ -19,8 +19,8 @@ This intermediate course is designed for students who already have a basic under
 - Set comprehension
 
 ### 📝 Exercises
-- [Class 1 Exercises](exercises/Class1_exercises.py)
-- [Class 1 Exercises Solution](exercises/Class1_exercises_solution.py)
+- [Class 1 Exercises](class_material/Class1_exercises.py)
+- [Class 1 Exercises Solution](class_material/Class1_exercises_solution.py)
 
 ---
 
@@ -101,10 +101,10 @@ Before taking this course, students should be familiar with:
 ## 📁 Course Materials
 
 ### 📚 Class Materials
-- [Class 1 PDF]
+- [Class 1 PDF](class_material/class-1.pdf)
 
 ### 📝 Exercises & Solutions
-- **Class 1**: [Exercises](exercises/Class1_exercises.py) | [Solutions](exercises/Class1_exercises_solution.py)
+- **Class 1**: [Exercises](class_material/Class1_exercises.py) | [Solutions](class_material/Class1_exercises_solution.py)
 - **Class 2**: [Exercises](exercises/Class2_exercises.py) | [Solutions](exercises/Class2_exercises_solution.py)
 - **Class 3**: [Exercises](exercises/Class3_exercises.py) | [Solutions](exercises/Class3_exercises_solution.py)
 
@@ -116,9 +116,9 @@ Before taking this course, students should be familiar with:
    - Install required libraries: matplotlib, seaborn
 
 2. **📚 Start Learning**
-   - Begin with [Class 1 PDF](class%20material/class-1.pdf) for theoretical foundation
-   - Practice with [Class 1 Exercises](exercises/Class1_exercises.py)
-   - Check your work against [Class 1 Solutions](exercises/Class1_exercises_solution.py)
+   - Begin with [Class 1 PDF](class_material/class-1.pdf) for theoretical foundation
+   - Practice with [Class 1 Exercises](class_material/Class1_exercises.py)
+   - Check your work against [Class 1 Solutions](class_material/Class1_exercises_solution.py)
 
 3. **🔄 Progress Through Classes**
    - Follow the same pattern for Classes 2-4
