@@ -19,8 +19,8 @@ This intermediate course is designed for students who already have a basic under
 - Set comprehension
 
 ### 📝 Exercises
-- [Class 1 Exercises](class_material/Class1_exercises.py)
-- [Class 1 Exercises Solution](class_material/Class1_exercises_solution.py)
+- [Class 1 Exercises](exercises/Class1_exercises.py)
+- [Class 1 Exercises Solution](exercises/Class1_exercises_solution.py)
 
 ---
 
