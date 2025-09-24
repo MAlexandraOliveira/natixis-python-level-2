@@ -102,6 +102,8 @@ Before taking this course, students should be familiar with:
 
 ### 📚 Class Materials
 - [Class 1 PDF](class_material/class-1.pdf)
+- [Class 2 PDF](class_material/class-2.pdf)
+- [Class 3 PDF](class_material/class-3.pdf)
 
 ### 📝 Exercises & Solutions
 - **Class 1**: [Exercises](class_material/Class1_exercises.py) | [Solutions](class_material/Class1_exercises_solution.py)
@@ -122,10 +124,9 @@ Before taking this course, students should be familiar with:
 
 3. **🔄 Progress Through Classes**
    - Follow the same pattern for Classes 2-4
-   - Use the provided sample data in `exercises/data/` folder
 
 4. **💡 Apply Your Skills**
-
+- The final class of this course, will be dedicated to the completion of a project that will allow to apply all contents covered throughout this intermediate course.
 ---
 
 ## ⚠️ Intellectual Property Notice
